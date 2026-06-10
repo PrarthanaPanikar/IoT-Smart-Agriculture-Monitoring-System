@@ -258,30 +258,32 @@ Output files are automatically saved in the `outputs` folder.
 # 📸 Screenshots
 
 ## Dashboard
+<img width="1366" height="668" alt="Screenshot 2026-06-10 132420" src="https://github.com/user-attachments/assets/566e38c5-eec6-4ed2-839c-4aa04aed3149" />
+<img width="1360" height="665" alt="Screenshot 2026-06-10 132449" src="https://github.com/user-attachments/assets/37fc4d47-1773-4291-91d3-bba19a2006d3" />
 
-Add dashboard screenshot here.
 
-```text
-images/dashboard.png
-```
 
 ## Sensor Monitoring
 
-Add terminal monitoring screenshot here.
+<img width="1366" height="661" alt="Screenshot 2026-06-10 123203" src="https://github.com/user-attachments/assets/d2796750-7b9e-4e52-a0d3-3ee2d21292be" />
 
-```text
-images/sensor_monitoring.png
-```
+<img width="1366" height="649" alt="Screenshot 2026-06-10 123310" src="https://github.com/user-attachments/assets/69343691-df39-4095-9162-d7cf0ed68d19" />
+
+<img width="1366" height="641" alt="Screenshot 2026-06-10 123325" src="https://github.com/user-attachments/assets/f8898a43-ec42-4355-bdd5-e08db97feb52" />
+
+<img width="1281" height="648" alt="Screenshot 2026-06-10 123348" src="https://github.com/user-attachments/assets/edb21638-7140-48d2-a172-d95ec4d0e700" />
+
 
 ## Analytics Graphs
 
-Add graph screenshots here.
+<img width="1366" height="664" alt="Screenshot 2026-06-10 132532" src="https://github.com/user-attachments/assets/9aaee2a7-a47d-489b-acb1-fca0dd371745" />
 
-```text
-images/graphs.png
-```
+<img width="1364" height="637" alt="Screenshot 2026-06-10 132604" src="https://github.com/user-attachments/assets/ac8252fe-5a58-4a1c-80fe-b52e46076764" />
 
----
+<img width="1366" height="627" alt="Screenshot 2026-06-10 132620" src="https://github.com/user-attachments/assets/bf83f3d7-fb96-4dc0-8938-0a6c77cbee7c" />
+
+<img width="1366" height="635" alt="Screenshot 2026-06-10 132655" src="https://github.com/user-attachments/assets/7c4b4461-59b2-4042-a465-a1d4951e4488" />
+
 
 # 🎯 Learning Outcomes
 
@@ -303,7 +305,7 @@ This project demonstrates:
 
 **Prarthana Panikar**
 
-B.Tech Computer Science\
+B.Tech Computer Science
 
 GitHub:
 https://github.com/PrarthanaPanikar
