@@ -1,9 +1,5 @@
 ## 🌱 IoT Smart Agriculture Monitoring System
 
-
-
-\
-
 An AI-powered Smart Agriculture Monitoring System that simulates IoT sensors, automates irrigation decisions, logs environmental data, generates analytics, and provides a professional real-time dashboard for precision farming.
 
 ---
